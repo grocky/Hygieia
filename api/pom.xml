@@ -8,7 +8,7 @@
 	<name>DevOps Dashboard REST API</name>
 
 	<properties>
-		<spring.version>4.1.0.RELEASE</spring.version>
+		<spring.version>5.2.8.RELEASE</spring.version>
 		<jackson.version>2.5.0</jackson.version>
 		<guava.version>16.0.1</guava.version>
 	</properties>
